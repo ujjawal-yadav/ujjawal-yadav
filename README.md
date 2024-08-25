@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/ujjawal-yadav/count.svg" />
 </p>
 <h1 align="center">Hi 👋, I'm Ujjawal Yadav</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawal-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawal-yadav" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawal-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawal-yadav" /> </p> -->
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 <p align="left"> <a href="https://www.linkedin.com/in/ujjawal-yadav-1425531b4/" target="blank"><img src="https://img.shields.io/twitter/follow/ujjawal yadav?logo=twitter&style=for-the-badge" alt="ujjawal yadav" /></a> </p>
 🔭 I’m currently working on Full-Stack Development Projects
